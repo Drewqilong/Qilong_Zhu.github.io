@@ -4,10 +4,12 @@ layout: homepage
 
 ## About Me
 
-I'm a <a href="https://mays.tamu.edu/graduate/phd/operations-and-supply-chain-management/" target="_blank"> Operations and Supply Chain Management</a> Ph.D. candidate at <a href="https://www.tamu.edu/index.html" target="_blank"> Texas A&M University</a>'s <a href="https://mays.tamu.edu/" target="_blank"> Mays Business School</a>,
+I'm an <a href="https://mays.tamu.edu/graduate/phd/operations-and-supply-chain-management/" target="_blank"> Operations and Supply Chain Management</a> Ph.D. candidate at <a href="https://www.tamu.edu/index.html" target="_blank"> Texas A&M University</a>'s <a href="https://mays.tamu.edu/" target="_blank"> Mays Business School</a>,
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working under the mentorship of Prof.<a href="https://mays.tamu.edu/directory/gregory-r-heim/" target="_blank"> 
-Gregory R. Heim</a>. My research interests include online retailing, craft business, healthcare, and sustainable operations.
+Gregory R. Heim</a>. 
+
+<!-- My research interests include online retailing, craft business, healthcare, and sustainable operations. -->
 
 <!-- In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
 Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
@@ -18,10 +20,14 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Online Retailing** 
+<!-- positive semi-definite manifolds learning -->
+- **Craft Business** 
+<!-- fairness AI, penalization and augmentation methods -->
+- **Healthcare** 
+<!-- functional regression, and clustering methods -->
+- **Sustainable Operations** 
+<!-- matrix-valued regression and clustering, positive semi-definite matrices estimations -->
 
 
 ## Awards
