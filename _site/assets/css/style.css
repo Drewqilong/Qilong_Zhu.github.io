@@ -311,11 +311,11 @@ h1 {
   font-size: 28px; }
 
 a {
-  color: #702b9d;
+  color: #af1217;
   text-decoration: none; }
 
 a:hover {
-  color: #500000; }
+  color: crimson; }
 
 @media (prefers-color-scheme: dark) {
   a {
