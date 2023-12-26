@@ -65,11 +65,17 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 {% include_relative _includes/services.md %}
 
 
-## Resources
+## Affiliations
 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
+- Production and Operations Management Society (POMS), The Institute for Operations Research and the Management Sciences (INFORMS), Decision Sciences Institute (DSI), Council of Supply Chain Management Professionals (CSCMP)
 
 
+## Industry Experience
 
+- **[2015 - 2017]** <Strong> Senior, Advisory Services</strong>
+    <div class="periodical"><em>Ernst & Young (EY) - Shanghai, China</em></div>
+- **[2013 - 2015]** <Strong> Consultant, SAP Services</strong>
+    <div class="periodical"><em>Abeam Consulting - Shanghai, China</em></div>
+- **[2011 - 2013]** <Strong> SAP ERP Developer</strong>
+    <div class="periodical"><em>Dynasys Solutions Limited - Shenzhen, China</em></div>
