@@ -97,7 +97,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/brew1.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">working in progress</abbr>
+    <abbr class="badge">In progress</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -121,7 +121,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/delivery.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">working in progress</abbr>
+    <abbr class="badge">In progress</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
