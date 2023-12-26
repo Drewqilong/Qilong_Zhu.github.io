@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TTHS2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/Bin-02.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">POMS & DSI</abbr>
   </div>
 
@@ -37,7 +37,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ENAR2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/brew2.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">POMS & DSI</abbr>
   </div>
 

@@ -72,7 +72,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/bin-01.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/Bin-01.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">working paper</abbr>
   </div>
 
@@ -96,7 +96,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/brew1.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">working in progress</abbr>
   </div>
 
@@ -120,7 +120,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/delivery.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">working in progress</abbr>
   </div>
 
