@@ -9,20 +9,22 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TTHS2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TTHS</abbr>
+    <abbr class="badge">POMS & DSI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/TenHave2023.pdf" target="_blank">K-Tensors: Clustering Postive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
-    <div class="periodical"><em>Thomas R. Ten Have Symposium <strong>(TTHS)</strong>, Harvard University, 2023, Cambridge, MA.</em></div>
-    <div class="links">
+    <div class="title">Improving E-Retailer Order Fulfillment: Packing Boxes Better to Reduce Shipping Cost</div>
+    <div class="author"><strong>Qilong Zhu</strong></div>
+    <div class="periodical"><em>33rd Production and Operations Management Society Annual Conference <strong>(POMS)</strong>, Orlando, FL, May 2023</em></div>
+    <div class="periodical"><em>54th Decision Sciences Institute Annual Conference <strong>(DSI)</strong>, Atlanta, GA, Nov 2023</em></div>
+    <div class="periodical"><em>34rd Production and Operations Management Society Annual Conference <strong>(POMS)</strong>, Minneapolis MN, April 2024</em></div>
+    <!-- <div class="links">
       <a href="assets/files/TenHave2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
       <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a>
       <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
-    </div>
+    </div> -->
   </div>
 </div>
 </li>
@@ -36,7 +38,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ENAR2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ENAR</abbr>
+    <abbr class="badge">POMS & DSI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
