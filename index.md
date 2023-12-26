@@ -30,8 +30,13 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 <!-- matrix-valued regression and clustering, positive semi-definite matrices estimations -->
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+## Awards and Honors
+- **[2020]** *Mays Innovation Center Grant*, Mays Business School, Texas A&M University
+- **[2020 - 2025]** *Dean's Office Scholarship*</a>, Mays Business School, Texas A&M University
+- **[2020 - 2025]** *Information and Operations Management Department Scholarship*</a>, Mays Business School, Texas A&M University
+- **[2020 - 2025]** *Graduate Assistantship*</a>, Mays Business School, Texas A&M University
+<!-- - **[2020 - 2025]** <a href="" target="_blank"> *Graduate Assistantship*</a>, Mays Business School, Texas A&M University -->
+
 
 
 <!-- {% include_relative _includes/publications.md %} -->
