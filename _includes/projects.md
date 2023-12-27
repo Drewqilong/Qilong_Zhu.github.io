@@ -52,7 +52,7 @@
   </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Artificial intelligence and machine learning in cybersecurity: Applications, challenges, and opportunities for MIS academics</a></div>
+    <div class="title"><strong>Artificial intelligence and machine learning in cybersecurity: Applications, challenges, and opportunities for MIS academics</strong></div>
     <div class="author">Ravi Sen, Gregory Heim, <strong>Qilong Zhu</strong></div>
     <div class="periodical"><em>Communications of the Association for Information Systems <strong>(CAIS)</strong>, Sep. 2022.</em></div>
     <div class="links">
