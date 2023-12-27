@@ -4,11 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm an <a href="https://mays.tamu.edu/graduate/phd/operations-and-supply-chain-management/" target="_blank"> Operations and Supply Chain Management</a> Ph.D. candidate at <a href="https://www.tamu.edu/" target="_blank"> Texas A&M University</a>'s <a href="https://mays.tamu.edu/" target="_blank"> Mays Business School</a>,
-
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-
-working under the mentorship of Prof.<a href="https://mays.tamu.edu/directory/gregory-r-heim/" target="_blank">
+I'm an <a href="https://mays.tamu.edu/graduate/phd/operations-and-supply-chain-management/" target="_blank"> Operations and Supply Chain Management</a> Ph.D. candidate at <a href="https://www.tamu.edu/" target="_blank"> Texas A&M University</a>'s <a href="https://mays.tamu.edu/" target="_blank"> Mays Business School</a>, working under the mentorship of Prof.<a href="https://mays.tamu.edu/directory/gregory-r-heim/" target="_blank">
 Gregory R. Heim</a>.
 
 <!-- My research interests include online retailing, craft business, healthcare, and sustainable operations. -->
